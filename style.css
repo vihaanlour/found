@@ -1,0 +1,9 @@
+.head{
+    width: 100%;
+}
+
+canvas{
+    margin-top: 135px;
+    box-shadow: 10px 10px 10px 10px #89ec06;
+    position: center;
+}
